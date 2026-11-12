@@ -193,3 +193,4 @@ This document details the functional specifications, API contracts, input valida
     }
     ```
   - If `totalResponses === 0`: Returns 0 counts, 0.0 percentages, and null/empty distributions without throwing errors (`AC-27`).
+

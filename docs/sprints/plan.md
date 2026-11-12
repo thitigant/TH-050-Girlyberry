@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 1. Plan at a glance
 
 | Sprint | Goal | Feature IDs | Checkpoint | Completion outcome |

@@ -1,0 +1,8 @@
+{
+  "name": "survey-feedback-system",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}

@@ -45,3 +45,4 @@ A feature or user story in Sprint 1 is considered **Done** if and only if it sat
 ## 5. Deployment & Setup Readiness
 1. **Reproducibility:** A fresh clone can be set up, migrated, seeded, and tested using only the documented commands in `README.md`.
 2. **Persistence Guarantee:** Data created survives application restart.
+

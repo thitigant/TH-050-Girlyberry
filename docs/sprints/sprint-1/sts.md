@@ -104,3 +104,4 @@ This document specifies all planned automated tests for Sprint 1, establishing p
   9. Owner clicks Close Survey. Status transitions to `CLOSED`.
   10. Another respondent attempts to submit; system rejects because survey is closed.
 - **Expected Result:** All UI steps succeed smoothly; transitions and rejection alerts display appropriately.
+
